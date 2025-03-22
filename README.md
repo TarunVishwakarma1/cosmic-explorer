@@ -89,6 +89,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Tarun Vishwakarma - [@Assassingod5](https://x.com/Assassingod5) - tarunvishwakarma81@gmail.com
 
-Project Link: [https://github.com/yourusername/cosmic-explorer](https://github.com/yourusername/cosmic-explorer)
+Project Link: [https://github.com/TarunVishwakarma1/cosmic-explorer](https://github.com/TarunVishwakarma1/cosmic-explorer)

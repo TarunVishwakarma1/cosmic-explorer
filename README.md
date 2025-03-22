@@ -1,36 +1,94 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Cosmic Explorer 🚀
 
-## Getting Started
+A thrilling 3D space exploration game built with React Three Fiber and TypeScript. Navigate through asteroid fields, collect valuable minerals, and complete missions across multiple levels.
 
-First, run the development server:
+![Cosmic Explorer Screenshot](public/readme/files/screenshot.png)
 
+## 🌟 Features
+
+- **3D Space Environment**: Immersive space environment with dynamic lighting and particle effects
+- **Realistic Physics**: Accurate space physics using React Three Cannon
+- **Multiple Levels**: Progress through increasingly challenging levels
+- **Resource Collection**: Gather minerals to unlock new levels
+- **Power-ups**: Collect and use various power-ups to enhance your spacecraft
+- **Mission System**: Complete different types of missions in each level
+- **Responsive Controls**: Smooth and intuitive spacecraft controls
+- **Visual Effects**: Beautiful particle effects, explosions, and lighting
+- **Sound Effects**: Immersive audio feedback for actions and events
+
+## 🎮 Controls
+
+- **Movement**: WASD or Arrow keys
+- **Boost**: Spacebar
+- **Camera**: Right-click and drag to rotate view
+- **Menu**: ESC
+
+## 🛠️ Tech Stack
+
+- React Three Fiber
+- Three.js
+- React Three Cannon
+- TypeScript
+- Zustand (State Management)
+- Tailwind CSS
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/cosmic-explorer.git
+```
+
+2. Install dependencies:
+```bash
+npm install
+# or
+yarn install
+```
+
+3. Start the development server:
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🎯 Gameplay
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Objectives
+- Navigate through asteroid fields
+- Collect minerals to progress
+- Complete level-specific missions
+- Manage your spacecraft's health and fuel
+- Use power-ups strategically
 
-## Learn More
+### Level Progression
+- Each level requires collecting a specific amount of minerals
+- Difficulty increases with each level
+- New challenges and obstacles appear in higher levels
 
-To learn more about Next.js, take a look at the following resources:
+## 📸 GamePlay
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Gameplay Video](public/readme/files/gameplay.gif)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🤝 Contributing
 
-## Deploy on Vercel
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📝 License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- 3D models and textures from various sources
+- Sound effects from [source]
+- Special thanks to the React Three Fiber community
+
+## 📧 Contact
+
+Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+
+Project Link: [https://github.com/yourusername/cosmic-explorer](https://github.com/yourusername/cosmic-explorer)
